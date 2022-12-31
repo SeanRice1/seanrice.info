@@ -7,7 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "css-build": "node-sass --omit-source-map-url ./src/styling/sass/bulma-styles.scss ./src/styling/css/bulma-styles.css",
